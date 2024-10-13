@@ -37,6 +37,7 @@
 }
 .image-contact{
     width: 100px;
+    float: left;
 }
 .content{
     font: bold 14px "Lucida Grande", Helvetica, Arial, sans-serif;
